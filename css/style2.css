@@ -1,0 +1,38 @@
+/* Generales */
+/* https://www.color-hex.com/color-palette/5811 */
+
+:root {
+  /* --color-1: #bd8bff !important; */
+  /* --color-2: #171519 !important; */
+  /* --color-3: #bd8bff !important;
+  --color-4: #bd8bff !important;
+  --color-5: #080707 !important; */
+}
+/* section.ceremonia-fiesta:after{
+  background-image: url('../img/img_ondas.svg') !important;
+}
+section.instagram:after{
+  background-image: url('../img/img_ondas.svg') !important;
+}
+section.fiesta .item-fiesta .content-item-fiesta{
+  background-color: #efe9f9 !important;
+} */
+
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --color-1: #bd8bff !important;
+    --color-2: #bd8bff !important;
+    --color-3: #bd8bff !important;
+    --color-4: #bd8bff !important;
+    --color-5: #080707 !important;
+  }
+  section.ceremonia-fiesta:after{
+    background-image: url('../img/img_ondas.svg') !important;
+  }
+  section.instagram:after{
+    background-image: url('../img/img_ondas.svg') !important;
+  }
+  section.fiesta .item-fiesta .content-item-fiesta{
+    background-color: #efe9f9 !important;
+  }
+} */
